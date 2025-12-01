@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "base_track": "HEART OF SWORD 〜夜明け前〜",
+  "base_artist": "T.M.Revolution",
+  "createdAt": "2025-12-01T16:29:39.755708Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Heart of Sword",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/01_Heart_of_Sword_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "HEART OF SWORD ~夜明け前~",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/02_HEART_OF_SWORD_~夜明け前~_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "HEART OF SWORD -夜明け前-",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/03_HEART_OF_SWORD_-夜明け前-_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "HEART OF SWORD〜夜明け前〜",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/04_HEART_OF_SWORD〜夜明け前〜_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heart of Sword ~Yoake Mae~",
+      "artist": "T.M. Revolution",
+      "has_synced": true,
+      "path": "select/05_Heart_of_Sword_~Yoake_Mae~_T.M._Revolution.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Heart of Sword ~Yoake Mae~",
+      "artist": "T.M. Revolution",
+      "has_synced": true,
+      "path": "select/06_Heart_of_Sword_~Yoake_Mae~_T.M._Revolution.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HEART OF SWORD",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/07_HEART_OF_SWORD_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "HEART OF SWORD ~夜明け前~ ESPECIAL\"MATT\"Mix",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/08_HEART_OF_SWORD_~夜明け前~_ESPECIAL_MATT_Mix_T.M.Revolution.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "HEART OF SWORD ～夜明け前～ ESPECIAL \"MATT\" Mix",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/09_HEART_OF_SWORD_~夜明け前~_ESPECIAL__MATT__Mix_T.M.Revolution.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "HEART OF SWORD 〜夜明け前〜",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/10_HEART_OF_SWORD_〜夜明け前〜_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "heart of sword yoake mae",
+      "artist": "tmrevolution",
+      "has_synced": true,
+      "path": "select/11_heart_of_sword_yoake_mae_tmrevolution.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "HEART OF SWORD 〜夜明け前〜",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/12_HEART_OF_SWORD_〜夜明け前〜_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "HEART OF SWORD 〜夜明け前〜 (original backing track)",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/13_HEART_OF_SWORD_〜夜明け前〜_(original_backing_track)_T.M.Revolution.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "HEART OF SWORD ～夜明け前～ ESPECIAL “MATT” Mix",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/14_HEART_OF_SWORD_~夜明け前~_ESPECIAL_“MATT”_Mix_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Heart of Sword",
+      "artist": "T.M. Revolution",
+      "has_synced": true,
+      "path": "select/15_Heart_of_Sword_T.M._Revolution.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "HEART OF SWORD 〜夜明け前〜",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/16_HEART_OF_SWORD_〜夜明け前〜_T.M.Revolution.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "HEART OF SWORD - YOAKE MAE (BEFORE DAWN)  -  Bonus Track",
+      "artist": "T.M. Revolution",
+      "has_synced": true,
+      "path": "select/17_HEART_OF_SWORD_-_YOAKE_MAE_(BEFORE_DAWN)_-_Bonus_Track_T.M._Revolution.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "HEART OF SWORD ~夜明け前~",
+      "artist": "T.M.Revolution",
+      "has_synced": true,
+      "path": "select/18_HEART_OF_SWORD_~夜明け前~_T.M.Revolution.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HEART OF SWORD -夜明け前-",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_01_HEART_OF_SWORD_-夜明け前-_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "HEART OF SWORD ～夜明け前～",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_02_HEART_OF_SWORD_~夜明け前~_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "HEART OF SWORD ～夜明け前～",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_03_HEART_OF_SWORD_~夜明け前~_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Heart Of Sword ～夜明け前～",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_04_Heart_Of_Sword_~夜明け前~_T.M.Revolution.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Heart Of Sword ～夜明け前～ [Especial \"Matt\" Mix]",
+      "artist": "T.M.Revolution",
+      "has_synced": false,
+      "path": "select/pl_05_Heart_Of_Sword_~夜明け前~_[Especial__Matt__Mix]_T.M.Revolution.txt"
+    }
+  ]
+}
